@@ -1,15 +1,19 @@
 h1 {
   color: red;
+  text-decoration: underline;
 }
 
 h2 {
   color: green;
+  text-decoration: overline;
 }
 
 h3 {
   color: blue;
+  text-decoration: line-through;
 }
 
 h4 {
   color: orange;
+  text-decoration: inherit;
 }
